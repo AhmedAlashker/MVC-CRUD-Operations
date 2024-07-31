@@ -1,0 +1,15 @@
+D:\BackEnd\DotNet\Aliaa Tarek\MVC\Project\First MVC Project Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.deps.json
+D:\BackEnd\DotNet\Aliaa Tarek\MVC\Project\First MVC Project Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.dll
+D:\BackEnd\DotNet\Aliaa Tarek\MVC\Project\First MVC Project Solution\Demo.BLL\bin\Debug\net5.0\Demo.BLL.pdb
+D:\BackEnd\DotNet\Aliaa Tarek\MVC\Project\First MVC Project Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.dll
+D:\BackEnd\DotNet\Aliaa Tarek\MVC\Project\First MVC Project Solution\Demo.BLL\bin\Debug\net5.0\Demo.DAL.pdb
+D:\BackEnd\DotNet\Aliaa Tarek\MVC\Project\First MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.AssemblyReference.cache
+D:\BackEnd\DotNet\Aliaa Tarek\MVC\Project\First MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\BackEnd\DotNet\Aliaa Tarek\MVC\Project\First MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfoInputs.cache
+D:\BackEnd\DotNet\Aliaa Tarek\MVC\Project\First MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.AssemblyInfo.cs
+D:\BackEnd\DotNet\Aliaa Tarek\MVC\Project\First MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CoreCompileInputs.cache
+D:\BackEnd\DotNet\Aliaa Tarek\MVC\Project\First MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.csproj.CopyComplete
+D:\BackEnd\DotNet\Aliaa Tarek\MVC\Project\First MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.dll
+D:\BackEnd\DotNet\Aliaa Tarek\MVC\Project\First MVC Project Solution\Demo.BLL\obj\Debug\net5.0\refint\Demo.BLL.dll
+D:\BackEnd\DotNet\Aliaa Tarek\MVC\Project\First MVC Project Solution\Demo.BLL\obj\Debug\net5.0\Demo.BLL.pdb
+D:\BackEnd\DotNet\Aliaa Tarek\MVC\Project\First MVC Project Solution\Demo.BLL\obj\Debug\net5.0\ref\Demo.BLL.dll
